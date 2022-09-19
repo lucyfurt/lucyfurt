@@ -1,10 +1,6 @@
-# I'm a Computer Science student and Web Developer.
-
-I made a career transition at age 30, I have a degree in library science and a master's degree in education, but I'm passionate about technology and I'm curious about how to develop technological systems and that's why I changed careers.
-I'm currently studying java programming, language paradigms and patterns.
-
 <h1 align="center">Hi 👋, I'm Luciana Furtado</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+<h3 align="center"> I'm a Computer Science student and Web Developer. I made a career transition at age 30, I have a degree in library science and a master's degree in education, but I'm passionate about technology and I'm curious about how to develop technological systems and that's why I changed careers.
+I'm currently studying java programming, language paradigms and patterns.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucyfurt&label=Profile%20views&color=0e75b6&style=flat" alt="lucyfurt" /> </p>
 
