@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luciana Furtado</h1>
-<h3 align="center"> I'm a Computer Science student and Web Developer. I made a career transition at age 30, I have a degree in library science and a master's degree in education, but I'm passionate about technology and I'm curious about how to develop technological systems and that's why I changed careers.
-I'm currently studying java programming, language paradigms and patterns.</h3>
+<h3 align="center"> I'm a Computer Science student and Web Developer. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucyfurt&label=Profile%20views&color=0e75b6&style=flat" alt="lucyfurt" /> </p>
-
-- 🌱 I’m currently learning **Java POO, React and SpringBoot**
-
-- 👨‍💻 All of my projects are available at [https://portfoliolucianafurtado.netlify.app/](https://portfoliolucianafurtado.netlify.app/)
 
 - 📫 How to reach me **lucianafurtado10@gmail.com**
 
