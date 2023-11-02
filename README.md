@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luciana Furtado</h1>
-<h3 align="center"> I'm a Front-end Developer. 
+<h3 align="center"> I'm a FullStack Developer. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucyfurt&label=Profile%20views&color=0e75b6&style=flat" alt="lucyfurt" /> </p>
 
