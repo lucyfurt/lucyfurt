@@ -4,6 +4,7 @@
 
 <h1>Skills</h1>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"  width="50" height="50"/>
 <p>Socials</p>
 <p>My GitHub Stats</p>
 
