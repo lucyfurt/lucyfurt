@@ -3,7 +3,7 @@
 <p>You can contact me at lucianafurtado10@gmail.com</p>
 
 <p>Skills</p>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50"/>
 <p>Socials</p>
 <p>My GitHub Stats</p>
 
