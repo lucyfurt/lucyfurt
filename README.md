@@ -1,7 +1,12 @@
 # Luciana Furtado
 
 ## 👩‍💻 Sobre Mim
-Olá! Sou Luciana Furtado, uma profissional multidisciplinar com uma trajetória diversificada, combinando minha experiência como bibliotecária, cientista da computação e professora de programação. Minha jornada na programação teve início com Java, e ao longo do tempo, expandi meu conhecimento para diversas outras tecnologias, sempre em busca de soluções criativas e eficientes para os problemas do cotidiano.
+✌Olá! Sou Luciana desenvolvedora Backend Developer Python, possuo conhecimento em:
+
+✔Backend: Python
+✔Frontend: React.Js, HTML, CSS.
+✔Bancos de Dados: Firebase, MongoDB e Postgres.
+✔Versionamento de Código: Git e Github.
 
 ## 🎓 Formação Acadêmica
 - **Biblioteconomia** 📚
