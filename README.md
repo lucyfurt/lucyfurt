@@ -1,33 +1,48 @@
-# Luciana Furtado
+<h2 align="left">Hi 👋! My name is  Luciana and I'm a Python Developer, from Brazil</h2>
 
-## 👩‍💻 Sobre Mim
-✌Olá! Sou Luciana desenvolvedora Backend Developer Python, possuo conhecimento em:
+###
 
-✔Backend: Python
-✔Frontend: React.Js, HTML, CSS.
-✔Bancos de Dados: Firebase, MongoDB e Postgres.
-✔Versionamento de Código: Git e Github.
+<div align="center">
+</div>
 
-## 🎓 Formação Acadêmica
-- **Biblioteconomia** 📚
-- **Ciência da Computação** 💻
+###
 
-## 💼 Experiência Profissional
-- Bibliotecária: Gerenciamento de informações e curadoria de conteúdos digitais e físicos. 🗂️
-- Cientista da Computação: Pesquisa e desenvolvimento em áreas variadas da computação, com ênfase em soluções tecnológicas inovadoras. 🔍
-- Professora de Programação: Ensino de desenvolvimento web, focando em habilidades práticas e teóricas para iniciantes e profissionais em formação. 👩‍🏫
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-## 💻 Linguagens de Programação e Tecnologias
-- Java (Spring): Minha porta de entrada no mundo da programação, onde adquiri uma sólida compreensão de backend e princípios de arquitetura de software. ☕
-- JavaScript (Node.js): Expansão para o desenvolvimento full-stack, criando aplicações dinâmicas e escaláveis para a web. 🌐
-- HTML & CSS: Habilidade em criar interfaces web atraentes e funcionais, aplicando boas práticas de design responsivo. 🎨
-- Python: Meu foco atual está no desenvolvimento web com frameworks como Django e Flask, explorando sua versatilidade e simplicidade. 🐍
+###
 
-## 🚀 Projetos Recentes
-- Sistema de Gestão de Tarefas: Aplicação desenvolvida com Django e PostgreSQL, com foco na organização e gestão de tarefas. O sistema utiliza templates do Django para renderização de páginas HTML dinâmicas. 📋
-  
-- Sistema de Avaliação Online: Plataforma desenvolvida com ReactJS e Firebase para aplicação de provas EAD. O projeto inclui gerenciamento de avaliações e um dashboard intuitivo para professores. 📊
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+</div>
 
-## 📬 Contato
-- Email: [lucianafurtadodev@gmail.com](mailto:lucianafurtadodev@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/luciana-furtado-36072187/](https://www.linkedin.com/in/luciana-furtado-36072187/)
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/luciana-n-m-furtado-36072187/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/lucyfurt/lucyfurt/output/snake.svg" alt="Snake animation" />
+
+###
